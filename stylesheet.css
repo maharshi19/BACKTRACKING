@@ -1,0 +1,124 @@
+.heading{
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 0px;
+}
+body{
+    margin: 8px;
+}
+
+.para1{
+    display:block;
+    margin-top: 0px;
+}
+
+.recursion{
+    display: block;  
+margin-left: auto;  
+margin-right: auto;  
+}
+pre {  
+    color: #660000; 
+    font-family: Verdana, Arial, Helvetica, sans-serif
+}
+code {  
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #660000;
+    font-style: normal
+}
+.list{
+    display: block;
+    margin-top: 20px;
+}
+.list1{
+    margin-left: 15px;
+    padding-left: 10px;
+}
+.heading2{
+    display: block;
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+.color{
+    color: #0000ff;
+}
+.tab{ 
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 1px solid gray;
+}
+.tar{
+    background-color: lightgray;
+    border: 1px solid gray;
+}
+.bor{
+    border: 1px solid gray;
+}
+td {
+        background-color:white;
+        text-align: left;
+        /* border: 1px solid gray; */
+        padding:2px;
+}
+th{
+    font-weight: normal;
+}
+.high{
+    color: black;
+    font-weight: bold; 
+    font-family: Verdana, Arial, Helvetica, sans-serif   
+}
+.cod{
+    font-family: Verdana, Arial, Helvetica, sans-serif; 
+    color: #660000;
+    font-weight: bolder;
+}
+.ball{
+    margin-left: auto;  
+    margin-right: auto;  
+    border-spacing: 0px;
+    border-style: hidden;
+    padding: 6px;
+    font-weight: bolder;
+    
+    
+}
+.cell{
+    margin-left: auto;  
+    margin-right: auto;
+    height: 45px;
+    width: 45px;
+    background-color: lightgray;
+    border: 1px solid gray;
+
+    
+}
+
+
+.lst{
+    text-align: left;
+    color: blue;
+    white-space:pre;
+    font-weight: normal;
+    font-style: italic;
+}    
+.text{
+    white-space:pre;
+    text-align: left;
+    color: black;
+    font-weight: bold; 
+    font-family: Verdana, Arial, Helvetica, sans-serif   
+}
+.left{
+    text-align: left;
+    margin-left: 0px;
+}
+.new{
+
+        margin-left: auto;  
+        margin-right: auto;  
+        border-spacing: 0px;
+        
+
+    
+}
